@@ -29,7 +29,8 @@ PRODUCT_PACKAGES += \
     FontInterOverlay \
     FontRobotoOverlay \
     FontUrbanistOverlay \
-    FontManropeOverlay
+    FontManropeOverlay \
+    FontOnePlusSansOverlay
 
 # Include package overlays
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += $(LOCAL_PATH)/overlay
